@@ -30,6 +30,6 @@ It allows users to dynamically switch between different background modes, such a
 - Blends the foreground with different backgrounds based on user input.
 
 ## 🔥 Future Enhancements
-🎨 Add multiple image backgrounds & allow dynamic switching
-📹 Use real-time video as background
-🎛️ GUI controls for adjusting blur intensity
+🎨 Add multiple image backgrounds & allow dynamic switching.
+📹 Use real-time video as background.
+🎛️ GUI controls for adjusting blur intensity.
